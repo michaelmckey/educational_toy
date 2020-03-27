@@ -1,2 +1,4 @@
 # educational_toy
- Files relating to my GCSE DT project
+
+Videos linked to this project:
+https://www.youtube.com/playlist?list=PLeoMw1OlgLtPhD4vyNWJioMUGLgGWFEwg
